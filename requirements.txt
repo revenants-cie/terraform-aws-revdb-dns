@@ -1,3 +1,0 @@
-pytest ~= 5.3
-terraform-ci ~= 1.2
-

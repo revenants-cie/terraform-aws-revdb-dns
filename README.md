@@ -6,6 +6,10 @@ Description
 
 This module helps to maintain domain names, zones and records within Route53.
 
+For a more detailed use case and sample, please take a look at the blog post that's covering the release of this module.
+
+[https://revdb.io/2020/12/24/managing-your-domain-names-zones-and-records-with-terraform/](https://revdb.io/2020/12/24/managing-your-domain-names-zones-and-records-with-terraform/)
+
 Examples
 --------
 
